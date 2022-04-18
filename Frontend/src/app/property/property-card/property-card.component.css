@@ -11,6 +11,7 @@ transition-duration: 500ms;
 transition-timing-function: ease-out;
 height: 250px;
 opacity: .5;
+
 }
 
 .card img{
@@ -19,6 +20,7 @@ opacity: .5;
   transition-duration: 500ms;
   transition-timing-function: ease-out;
   height: 250px;
+
   }
 
   .member-icons{
